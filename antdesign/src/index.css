@@ -1,8 +1,8 @@
 
 .quiz-card {
   padding: 20px;
-  border: 1px solid #e8e8e8; /* เส้นขอบ */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* เงา */
+  border: 1px solid #e8e8e8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .question-text {
